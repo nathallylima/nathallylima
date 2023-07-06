@@ -1,6 +1,12 @@
 <h1 align="center">
- Oiii! Eu sou a Nathally Lima 🐱
+ Olá, eu sou a Nathally Lima!
 </h1>
+
+<div align="center">
+- 👾 Em um constante processo de aprendizagem. Atualmente estou estudando PHP e Java.
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/nathallylima/">
