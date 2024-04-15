@@ -1,9 +1,9 @@
 <h1 align="center">
- Olá, eu sou a Nathally Lima!
+ Olá, eu sou Nathally Lima!
 </h1>
 
 <div align="center">
-- 👾 Em um constante processo de aprendizagem. Atualmente estou estudando PHP e Java.
+- 👾 Em um constante processo de aprendizagem.
 </div>
 
 ##
