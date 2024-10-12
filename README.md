@@ -1,6 +1,3 @@
-<h1 align="center">
- Olá, eu sou Nathally Lima!
-</h1>
 
 <div align="center">
 - 👾 Em um constante processo de aprendizagem.
